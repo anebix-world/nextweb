@@ -11,4 +11,4 @@ This question can be split into the following questions:
 - How shouldn't we implement this vision?
 - What existing technologies can be utilized to implement these ideas?
 
-Discussion of this project can be found our Matrix channel: #nextweb:maple.camp
+Discussion of this project can be found our Matrix channel: [#nextweb:maple.camp](https://matrix.to/#/#nextweb:maple.camp)
