@@ -1,0 +1,1 @@
+Please e-mail your commits to ahill@breadpudding.dev so they can be discussed and merged into the [main repository](https://maple.camp/git/ahill/nextweb). All contributions will be licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated.
